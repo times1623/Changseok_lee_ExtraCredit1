@@ -7,6 +7,6 @@ All CSS for the top half of the page rebuilt as SASS using modules and compiled 
 
 ## Further Improvement
 
-### move the structure to a Vuejs setup for better DOM handling.
-### contrinue refactoring of SASS files
-### move data from object to database
+* move the structure to a Vuejs setup for better DOM handling.
+* contrinue refactoring of SASS files
+* move data from object to database
